@@ -15,6 +15,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/abhishek-dubey-787583222/"
             className="nounderline"
             target="_blank"
+            rel="noreferrer"
           >
             <BsLinkedin className="hover:text-white hover:text-5xl cursor-pointer" />
           </a>
@@ -22,6 +23,7 @@ const Footer = () => {
             href="https://github.com/Maestgion"
             className="nounderline"
             target="_blank"
+            rel="noreferrer"
           >
             <BsGithub className="hover:text-white hover:text-5xl cursor-pointer" />
           </a>
@@ -30,6 +32,7 @@ const Footer = () => {
             href="https://twitter.com/Abhishek14_10?t=j16EcVRHV-PGeBa1am1QPw&s=09"
             className="nounderline"
             target="_blank"
+            rel="noreferrer"
           >
             <SiTwitter className="hover:text-white hover:text-5xl cursor-pointer" />
           </a>

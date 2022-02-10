@@ -141,7 +141,7 @@ const LandingPage = () => {
             <SkillCard
               title="Content Writing"
               imageUrl="https://thumbs.gfycat.com/MelodicPointlessHogget-max-1mb.gif"
-              content="It's just amazing to express the magic of words in our own way and to present it more beautifully. I'm a content writer and it allows me to express my feelings freely, at the same time provides me with the leverage of writing and exploring the world of technology also. "
+              content="It's just amazing to express the magic of words in our own way and to present it more beautifully. And writing allows me to express my feelings freely, at the same time provides me with the leverage of writing and exploring the world of technology also. "
             />
           </Fade>
         </div>

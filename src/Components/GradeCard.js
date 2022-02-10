@@ -11,7 +11,7 @@ const GradeCard = ({ imageUrl, year, cgpa }) => {
         />
         <div className="p-2">
           <h2 className="font-Roboto font-bold text-lg m-2 text-left ">
-            Year: {year}
+            Year/Class: {year}
           </h2>
           <h2 className="font-Roboto font-bold text-lg m-2 text-lext ">
             CGPA/Percentage: {cgpa}
